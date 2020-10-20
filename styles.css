@@ -1,0 +1,112 @@
+.titletext {
+    color: black;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+body {
+    width: 100%;
+    background-color: gray;
+}
+
+.note {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.cavetext {
+    justify-content: center;
+    display: none;
+    border: 5px solid;
+}
+
+.long {
+    width: 100%;
+    height: 300px;
+}
+
+.red {
+    justify-content: center;
+    justify-content: space-around;
+    display: none;
+    width: 30%;
+    height: 30%;
+}
+
+.blue {
+    justify-content: center;
+    justify-content: space-around;
+    display: none;
+}
+
+.green {
+    justify-content: center;
+    justify-content: space-around;
+    display: none;
+    width: 25%;
+    height: 25%;
+}
+
+.druid {
+    display: flex;
+    display: none;
+
+}
+
+.ice {
+    display: flex;
+    display: none;
+
+}
+
+.fire {
+    display: flex;
+    display: none;
+
+}
+
+.tree {
+    display: flex;
+    display: none;
+
+}
+
+.wd {
+    display: flex;
+    display: none;
+}
+
+.fail_1 {
+    display: flex;
+    display: none;
+}
+
+.fail_2 {
+    display: flex;
+    display: none;
+}
+
+.win_1 {
+    display: flex;
+    display: none;
+}
+
+.oof {
+    display: flex;
+    display: none;
+
+}
+
+.rewind { display: flex;
+    display: none;
+}
+
+.troll {
+     display: flex;
+    display: none;
+}
